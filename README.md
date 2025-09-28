@@ -1,5 +1,6 @@
 # DN42-INFO
-Infomation for peering with AS4242423942. Join <https://t.me/dn424242> to contact me.
+Infomation for peering with AS4242423942. Join <https://t.me/dn424242> to contact me.  
+Always open to new peerings!
 ## LAX2
 - Los Angeles, CA
 - AS4242423942
